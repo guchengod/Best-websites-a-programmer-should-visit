@@ -6,6 +6,8 @@
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
+这是[[Best-websites-a-programmer-should-visit](http://technews.acm.org](https://github.com/sdmg15/Best-websites-a-programmer-should-visit.git)) : 中文翻译
+
 # 程序员应该访问的最佳网站
 一些对程序员有用的网站。
 
