@@ -373,19 +373,98 @@
   <b><a href="#index">↥ 回到顶部</a></b>
 </div>
 
-## MOOCs学习新事物
-- [Class Central](https://www.class-central.com) : 一个有10万+学生评论的MOOCs目录。
-- [Classpert](https://classpert.com) : 一个网站，聚集了来自几个提供商的MOOCs和在线课程，重点是计算机科学和数据科学课程。
-- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : 自学者的MOOCs列表
-- [Coursera.org](https://www.coursera.org) : 在线上参加世界上最好的课程。
-- [CS50](https://www.youtube.com/user/cs50tv/videos) : 来自cs50的一系列优质教程
-- [edX](https://www.edx.org) : 免费在线课程，提升你的职业生涯，改善你的生活。
-- [Kadenze/Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : 专注于艺术和创意的编程课程
-- [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-- [MOOC.fi](http://mooc.fi/english.html) : 赫尔辛基大学的免费在线课程
-- [NPTEL](http://nptel.ac.in) : 印度理工学院的免费在线课程，带证书
-- [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : 包含大量CS课程的列表
-- [Pluralsight](https://www.pluralsight.com) : 一个在线学习和员工发展平台，帮助企业和个人适应技术变化。
+## 好文章
+- [MongoDB初学者应该知道的14件事](https://www.infoq.com/articles/Starting-With-MongoDB/)
+- [40个计算机科学概念以简单语言解释](http://carlcheo.com/compsci)
+- [图论简介](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
+- [一种对程序员友好的编译成Lua的语言。](http://moonscript.org)
+- [软件开发者的阅读清单](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : 里面有一些好书和链接。
+- [编写TCP/IP栈](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : 让我们编写TCP/IP栈，第5部分：TCP重传
+- [Codewords.recurse](https://codewords.recurse.com/issues/four/the-language-of-choice) : 选择的语言
+- [学习数据结构和算法](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/) : 一些算法和数据结构以及学习资源的列表。
+- [深入字节码](https://www.wikiwand.com/en/Java_bytecode)
+- [对初级开发者的期望](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
+- [MongoDB入门 - 引言](https://studio3t.com/knowledge-base/articles/mongodb-getting-started/)
+- [Linux内幕](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
+- [算法列表](https://www.wikiwand.com/en/List_of_algorithms)
+- [数据库规范化的逐步指南](https://www.databasestar.com/normalization-in-dbms/)：数据库规范化的指南。
+- [加速编码技能的关键](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [通过创新技术重塑零售行业](http://multithreaded.stitchfix.com)
+- [每个程序员绝对、必须了解的关于编码和字符集的知识，以处理文本](http://kunststube.net/encoding/)
+- [每个程序员都应该了解的内存知识 - PDF](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : 我是如何达到每月200小时的高效工作时间的
+- [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : 使用Unix工具进行并行处理
+- [学习Vim](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7) : 我希望我知道的事情
+- [编写内核](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : 内核101 - 让我们编写一个内核
+- [学习JavaScript设计模式](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : O'Reilly出版的《学习JavaScript设计模式》的在线版本，作者Addy Osmani在CC BY-NC-ND 3.0许可下发布
+- [使用Webhooks](https://requestbin.com/blog/working-with-webhooks/) : 关于webhooks的全面指南
+- [我是如何获得TensorFlow开发者认证的](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : 通过Tensorflow开发者认证的逐步指南
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 播客
+- [Coding Blocks](http://www.codingblocks.net) : 一个涵盖最佳编程实践、设计模式、性能编码、面向对象编码、数据库设计和实现、技巧、诀窍等话题的播客。
+- [Developer On Fire](http://developeronfire.com/episodes) : 一个分享开发者的人性故事，讲述一些软件行业中的惊人人物的播客，由Dave Rael主持。
+- [Developer Tea](https://spec.fm/podcasts/developer-tea) : 一个为开发者设计的播客，旨在融入你的茶歇时间。
+- [Front End Happy Hour](http://frontendhappyhour.com) : 一个由Netflix、Evernote、Atlassian & LinkedIn的软件工程师组成的播客，讨论所有前端开发的事情。
+- [Full Stack Radio](http://www.fullstackradio.com) : 从产品设计和用户体验到单元测试和系统管理的一切。
+- [Groovy Podcast](http://groovypodcast.podbean.com) : 一个致力于Groovy编程语言及其生态系统的播客。
+- [IPhreaks](https://devchat.tv/iphreaks) : 一群iOS开发老手每周讨论iOS开发和相关技术。我们讨论Apple、工具、实践和代码。
+- [JavaScript Jabber](https://devchat.tv/js-jabber) : 每周讨论JavaScript、前端开发、社区、职业和框架的播客。
+- [Learn To Code With Me Podcast](https://learntocodewith.me/podcast/) : Laurence Bradford按季度制作的科技播客剧集，话题范围从科技行业的职业到科技业务的教训。
+- [LispCast](https://lispcast.com/category/podcast/) : 由函数式编程专家Eric Normand主持的播客，讨论FP概念。
+- [MS Dev Show](http://msdevshow.com) : Jason Young和Carl Schweitzer讨论最新的开发者新闻，涵盖Azure云、Windows、Windows Phone、Visual Studio和利用Microsoft平台的跨平台开发等话题。
+- [React Native Radio](https://devchat.tv/react-native-radio) : 每周讨论使用JavaScript和React构建移动应用程序的工具、技术和技术的播客。
+- [ShopTalk Show](https://shoptalkshow.com/) : Dave Rupert和Chris Coyier每周讨论网站构建的播客。
+- [Soft Skills Engineering](https://softskills.audio/) : 一个每周为软件开发者提供非技术主题建议的播客。
+- [Software Engineering Daily](https://softwareengineeringdaily.com) : 每日关于软件主题的技术访谈。
+- [Software Engineering Radio](http://www.se-radio.net) : 面向专业软件开发者的播客。目标是成为一个持久的教育资源，而不是新闻节目。
+- [Syntax](https://syntax.fm) : 由Wes Bos & Scott Tolinski为Web开发者制作的美食播客。
+- [The Bike Shed](http://bikeshed.fm) :嘉宾讨论他们在Ruby、Rails、JavaScript和其他技术方面的开发经验和挑战。
+- [The Changelog](https://changelog.com/podcast) : 每周讨论开源技术和创造它们的人的播客。
+- [The Cynical Developer](https://cynicaldeveloper.com) : 一个旨在通过解释最新的开发技术和提供您作为开发者成功所需的内容来帮助您提高开发知识和职业的播客。涵盖桌面、网络和移动开发，主要围绕.NET堆栈，但经常探讨其他软件和框架。
+- [The Real Python Podcast](https://realpython.com/podcasts/rpp/) : 由Christopher Bailey主持的每周Python播客，包括访谈、编码技巧和与Python社区的嘉宾对话。
+- [Blockchain Insider by 11:FS](blockchain.global/blockchain-innovation) : 学习区块链技术的播客。
+- [Unchained](unchainedpodcast.co) : 学习区块链技术的播客。
+- [Talk python to me](https://talkpython.fm/) : 通过访谈和讨论学习Python的播客。
+- [Python bytes](https://pythonbytes.fm) : 学习Python最新动态和趋势的播客。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+## 构建简单的编译器/解释器
+- [可能是史上最小的编译器](https://github.com/thejameskyle/the-super-tiny-compiler) : 这是一个用易于阅读的JavaScript编写的现代编译器所有主要部分的超级简化示例。
+- [酷炫的编译器](http://aalhour.com/awesome-compilers/) : 关于编译器、解释器和运行时的精选资源列表。
+- [编写编译器](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) : 学习如何编写编译器。
+- [让我们构建一个简单的解释器。第1部分。](https://ruslanspivak.com/lsbasi-part1/) : 尝试通过构建一个解释器来解开编译器的神秘面纱。
+- [业余编译器编写者的资源](http://c9x.me/compile/bib/) : 面向业余编译器编写者的资源。
+- [计算机程序的结构与解释](https://sarabander.github.io/sicp/html/index.xhtml) : 计算机程序的结构与解释。
+- [编写我的第一个编译器](https://dev.to/fcpauldiaz/writing-my-first-compiler) : 编写你的第一个编译器。
+- [编译器简介](https://nicoleorchard.com/blog/compilers) : 如何与计算机交流，预Siri。
+- [编写你自己的编译器](http://staff.polito.it/silvano.rivoira/HowToWriteYourOwnCompiler.htm) : 如何编写你自己的编译器。
+- [手工制作解释器](http://craftinginterpreters.com/) 编写解释器的手册，首先实现一个树遍历解释器，然后是一个字节码虚拟机。
+- [编写C编译器](https://norasandler.com/2017/11/29/Write-a-Compiler.html) : Nora Sandler关于编写你自己的C编译器的系列文章的第一篇。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 教程
+- [黑客指南：Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : 想要学习Git并打下坚实基础的人。
+- [Python的一小口](https://python.swaroopch.com) : 免费的Python入门教程。
+- [最佳 - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : 包含各种主题的文章。
+- [CMSI 281: 数据结构](http://cs.lmu.edu/~ray/classes/dsa/) : 轻量级的数据结构介绍。
+- [收集所有速查表](http://overapi.com) : 多种编程语言的速查表。
+- [C编程](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
+- [CryptoHack](https://cryptohack.org/) : 通过挑战和教程学习密码学。设有排行榜，每几个月添加新的挑战。
+- [编程社区推荐的C++资源](https://hackr.io/tutorials/learn-c-plus-plus) : 开发人员推荐的资源。
+- [深入C](https://www.slideshare.net/olvemaudal/deep-c) : 非常好的C语言演讲。
+- [设计模式：可重用面向对象软件的元素](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : 也被称为“四人帮”书，或GOF。
+- [动态规划 - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : 如果你想学习如何解决动态规划问题，这是一个非常好的资源。
+- [Flexbox Froggy](https://flexboxfroggy.com) : 一个教你如何使用CSS Flexbox属性的游戏。
 
 
 ### Special Thanks
