@@ -465,6 +465,71 @@
 - [设计模式：可重用面向对象软件的元素](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : 也被称为“四人帮”书，或GOF。
 - [动态规划 - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : 如果你想学习如何解决动态规划问题，这是一个非常好的资源。
 - [Flexbox Froggy](https://flexboxfroggy.com) : 一个教你如何使用CSS Flexbox属性的游戏。
+- [从内部了解Git](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+- [深入浅出设计模式](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- [如何使用C++编程](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : 修订C++主题和STL的好资源
+- [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
+- [indradhanush 教程](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : 编写Unix Shell
+- [C编程介绍](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+- [10分钟学会UNIX](http://freeengineer.org/learnUNIXin10minutes.html)
+- [学习Shell](http://linuxcommand.org)
+- [Linux Journey](https://linuxjourney.com) : 学习Linux的好网站
+- [Linux教程](https://ryanstutorials.net/linuxtutorial/) : 学习Linux的好资源
+- [缺失的学期](https://missing.csail.mit.edu/) : 你计算机科学教育中缺失的学期
+- [更多关于Github风格的Markdown](https://guides.github.com/features/mastering-markdown/)
+- [MySQL基础](http://www.techotopia.com/index.php/MySQL_Essentials)
+- [开放数据结构](http://opendatastructures.org) : 学习DS和算法的优秀资源，提供C++, Java和伪代码
+- [操作系统课程笔记](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : 根据Galvin的书按章节划分的课程笔记
+- [编程、Web开发和DevOps新闻、教程和工具，适合初学者到专家](https://dzone.com)
+- [斯坦福编程课程](https://see.stanford.edu/Course/CS106A) : 斯坦福大学创建的完整、免费的计算机科学课程
+- [SQL（结构化查询语言）一页纸 : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : 非常好的SQL速查表
+- [细微/穷人CI](https://www.subtle.press/course/poor-mans-ci) : 学习持续集成平台如何工作，通过在git上使用Node.js构建一个自己的
+- [TCP/IP图解系列](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+- [Bash指南](http://guide.bash.academy) : 学习Bash Shell的非常好指南
+- [下降到C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) : 对于从像java或python这样的高级编程语言转向C的人
+- [Linux命令行：完整介绍](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
+- [UNIX编程环境](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+- [TopCoder教程](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- [Tutorialspoint](https://www.tutorialspoint.com) : UPSC, IAS, PCS, Civil Services, 银行, 能力测试, 问题, 答案, 解释, 面试, 入门, 考试, 解决方案的文字和视频教程
+- [UNIX和Linux系统管理手册，第4版](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
+- [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : 从浏览器学习VIM。
+- [W3Schools在线Web教程](https://www.w3schools.com)
+- [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : 使用ksh/bash的Unix shell脚本
+- [Snap SVG](http://snapsvg.io) : 现代网络的JavaScript SVG库
+- [vim.rtorr](https://vim.rtorr.com) : Vim速查表
+- [Open Vim](http://www.openvim.com/tutorial.html) : 交互式Vim教程
+- [使用动态规划和A*设计树差异算法](http://thume.ca/2017/06/17/tree-diffing/) : 设计树差异算法使用动态规划和A*
+- [学习Python](https://www.learnpython.org) : 免费交互式Python教程
+- [学习Python](https://www.learnpython.org) : 免费交互式Python教程
+- [C++17](https://www.viva64.com/en/b/0533/) : C++17指南
+- [Bash学院](http://www.bash.academy) : Bash学院是一个旨在推广bash shell语言并教育人们如何使用的倡议。
+- [学习Shell编程](http://learnshell.org) : 这个网站适用于每个希望学习使用Unix/Linux shell解释器编程的人。
+- [Java教程](https://hackr.io/tutorials/learn-java) : 一个编程社区，也是寻找最佳在线编程课程和教程的好地方。
+- [解释Shell](https://explainshell.com/) : 将命令行参数与它们的帮助文本相匹配
+- [公开演讲io](https://speaking.io/) : 公共演讲技巧
+- [Javascript.info](https://javascript.info/) : 现代JavaScript教程
+
+<div align="right">
+  <b><a href="#index">↥ 回到顶部</a></b>
+</div>
+
+## 观看他人编程
+- [教育生态系统](https://www.education-ecosystem.com) : 人们构建应用程序、网站、游戏等的屏幕录制。
+- [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : Twitch的编程社区。
+
+<div align="right">
+  <b><a href="#index">↥ 回到顶部</a></b>
+</div>
+
+## 程序员应该知道什么
+- [我能使用](https://caniuse.com/) : 一个提供最新浏览器支持表的网站，支持桌面和移动网络浏览器上的前端网络技术。
+- [GitHub.com 一起更好地构建软件](https://github.com) : 展示你的项目并与他人协作的地方。（为了有效地使用它，必须知道Git）
+- [GitLab](https://about.gitlab.com) : GitHub的替代品，提供无限数量的（私有）仓库和无限的合作者。
+- [程序员能力矩阵](https://www.sijinjoseph.com/programmer-competency-matrix/) : 了解我们作为程序员水平的文章。
+
+<div align="right">
+  <b><a href="#index">↥ 回到顶部</a></b>
+</div>
 
 
 ### Special Thanks
