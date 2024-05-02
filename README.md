@@ -763,6 +763,6 @@
   <b><a href="#index">↥ 返回顶部</a></b>
 </div>
 
-### Special Thanks
-- Please consider a GitHub star if you find this useful and/or consider contributing.
-- A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
+### 特别感谢
+- 如果您觉得这个项目有用，请考虑在GitHub上给予一个星标，或者考虑贡献代码。
+- 特别感谢Ashish Padalkar (@ashish2199) 对初始仓库贡献了大量数据和结构。[原始帖子](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96)。
