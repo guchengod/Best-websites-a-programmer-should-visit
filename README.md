@@ -531,6 +531,235 @@
   <b><a href="#index">↥ 回到顶部</a></b>
 </div>
 
+## 竞技编程
+- [面向竞技程序员的按主题分类的问题](https://a2oj.com/categories)：按主题练习问题
+- [圣诞编程挑战](https://adventofcode.com)：一年一度的小型编程难题圣诞日历
+- [存档问题 - 欧拉计划](https://projecteuler.net/archives)：问题存档
+- [问题解决的艺术](https://artofproblemsolving.com)：数学课对你来说太简单了吗？你来对地方了！
+- [AtCoder](https://atcoder.jp/)：从初学者到专家建立竞技编程技能的最佳地方之一。
+- [CodeChef](https://www.codechef.com)：唯一的编程竞赛Web 2.0平台
+- [CodeSignal](https://app.codesignal.com)：测试你的编码技能
+- [CodeEval](https://www.codeeval.dev/)：笔记本和代码片段的存储方式，存储在浏览器的本地
+- [Codeforces](http://codeforces.com)：编程竞赛，编程比赛，在线计算机编程
+- [Codewars](https://www.codewars.com)：通过完成代码挑战提升等级
+- [Codility](https://codility.com)：验证和提高编码技能
+- [Codingame](https://www.codingame.com/start)：通过游戏和挑战学习编码！
+- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)：Facebook的编程竞赛，以往的问题解决方案和常见问题解答
+- [Google Code Jam练习和](https://code.google.com/codejam/past-contests)：以前的比赛问题练习
+- [HackerEarth - 编程挑战和开发人员工作](https://www.hackerearth.com)
+- [HackerRank](https://www.hackerrank.com)：练习编码。竞争。找工作。
+- [LightOJ](https://lightoj.com)：在LightOJ上练习对初学者非常有好处，因为它是分类的，还有聊天室和论坛，可以帮助与他人讨论任何问题。
+- [PKU ACM ICPC练习问题](http://poj.org/problemlist)：ACMACPC的在线评判
+- [Sphere Online Judge（SPOJ）](http://www.spoj.com)：成为真正的编程大师，学习如何编写代码和构建高效的算法
+- [Topcoder](https://www.topcoder.com)：通过众包更快地交付
+- [URI在线评判](https://www.urionlinejudge.com.br/judge/en/register)：练习编码，竞争，成为更好的编码者。
+- [UVa在线评判](https://uva.onlinejudge.org)：支持多种语言的数百个问题。
+- [WakaTime](https://wakatime.com)：通过编辑器插件收集的编码指标排行榜
+- [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice)：按主题和难度适当安排问题
+- [A2OJ阶梯](https://a2oj.com/Ladders.html)：根据您的熟练程度和难度练习codeforces问题
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 计算机书籍
+- [成为程序员，混蛋（书籍列表）](http://programming-motherfucker.com/become.html)：Zed A. Shaw的详尽书籍列表。
+- [GATE CSE最佳书籍](http://gatecse.in/best-books-for-gatecse/)
+- [cses.fi/book.html](https://cses.fi/book.html)
+- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)：几乎涵盖了您能想到的任何语言的500多本免费电子书
+- [GitBook](https://www.gitbook.com)：GitBook帮助您的团队在线撰写、协作和发布内容。
+- [数据科学课程](https://jakevdp.github.io/PythonDataScienceHandbook/)：Python数据科学手册
+- [Goal Kicker](https://goalkicker.com)：专业人士的编程笔记书籍
+- [GraphQL指南](https://graphql.guide)：GraphQL完整指南，新的REST✨
+- [Eloquent JavaScript](https://eloquentjavascript.net/)：关于JavaScript、编程和数字奇迹的书籍。
+- [programmingbooks.dev](https://www.programmingbooks.dev)：用于软件工艺增长的有序和策划阅读列表。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 视频教程
+- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): 印度YouTuber Aditya verma的算法教程播放列表。
+- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos)：前端Web开发教程
+- [Code School](https://www.codeschool.com)：PluralSight公司的交互式学习目的地，面向渴望和有经验的开发人员
+- [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos)：C++教程
+- [CS1：Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)：非常好的入门CS课程
+- [Derek Banas](https://www.youtube.com/user/derekbanas/videos)：高质量的教程
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos)：Web开发教程
+- [FreeCourses](https://freecourses.github.io)：关于编程的免费课程
+- [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos)：适合初学者的好视频
+- [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics)：一位出色的指导者，面向初学者的Git和GitHub指南
+- [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)：数据结构和算法教程
+- [Pluralsight](https://www.pluralsight.com)：通过多个短期课程学习软件开发、DevOps和数据科学
+- [thenewboston](https://www.youtube.com/user/thenewboston/videos)：内容比实际内容多得多，但讲得太多
+- [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos)：印度YouTuber的算法和数据结构教程。
+- [Vim教程视频 - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html)：学习vim的好视频教程
+- [XDA-大学 - 帮助您学习Android开发](https://forum.xda-developers.com/general/xda-university)
+- [可汗学院](https://www.khanacademy.org/computing/computer-science)：免费学习计算机科学
+- [函数式编程](https://www.youtube.com/watch?v=1PhArSujR_A)：约翰·卡马克关于函数式编程的视频（2013年）
+- [有关vims的视频](https://vimeo.com/album/2838732)：关于Vim的一系列教程视频
+- [精通Next.js](https://masteringnextjs.com/)：一系列免费视频教程，学习Next.js
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+## 在线编译器和分享代码片段
+- [C9.io](https://c9.io)：云端的开发环境
+- [Carbon](https://carbon.now.sh/)：创建漂亮的代码片段图片
+- [Codeframe](https://codeframe.co/)：用于使用HTML、CSS和JavaScript构建网站的在线pastebin式播放环境
+- [CodePad](https://codepad.remoteinterview.io)：用于尝试、测试和运行25种以上语言的代码编辑器
+- [Coder](https://coder.com)：使用Visual Studio Code作为代码编辑器的基于Web的开发环境
+- [Codesandbox.io](https://codesandbox.io)：CodeSandbox使创建、共享和重用React项目与其他人更容易。
+- [Github Gist](https://gist.github.com)：即时分享代码、笔记和片段。
+- [Godbolt.org](https://godbolt.org)：探索不同编译器的汇编输出的优秀工具，带有和不带有优化。
+- [Ideone.com](https://ideone.com)：60多种编程语言的在线编译器和调试工具
+- [JSFiddle](https://jsfiddle.net)：使用在线代码编辑器测试JavaScript、CSS、HTML或CoffeeScript
+- [JSBin](https://jsbin.com/)：前端播放环境，输出不包含框架，因此允许您共享那些将在iframe内部断开的片段。
+- [Judge0 IDE](https://ide.judge0.com)：带有40多个解释器和编译器的在线编译器。
+- [Pastebin.com](https://pastebin.com)：Pastebin可以存储文本、代码、笔记和片段，在设定的时间内在线分享。
+- [PlayCode](https://playcode.io/)：带有内置控制台和对npm包的支持的在线Javascript播放环境。
+- [RunJS](https://runjs.app/play)：带有即时实时反馈的在线JavaScript播放环境
+- [StackBlitz](https://stackblitz.com/)：支持nodejs和npm包的即时开发环境。
+- [Wandbox](https://wandbox.org/)：带有最新C++和其他40种语言的在线编译器。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 开发者博客
+- [Algo-Geeks](http://algo-geeks.blogspot.com)：编程谜题、数学技巧、算法等
+- [Amit Merchant](https://www.amitmerchant.com)：关于编程和设计的教程、技巧和抱怨。
+- [Andy Heathershaw](https://www.andyheathershaw.uk)：软件开发人员Andy Heathershaw的个人网站和博客
+- [Antonio081014的算法代码](http://code.antonio081014.com)：世界受到RULE统治。
+- [档案 — Ask a Manager](http://www.askamanager.org/archives)：与HR相关的内容
+- [Armin Ronacher的想法和写作](http://lucumr.pocoo.org)：关于Python和开源的博客
+- [博客.might.net](http://matt.might.net/articles/)：might点网站的博客
+- [Brendon Gregg - Linux内核开发](http://www.brendangregg.com)：Brendon D. Gregg的博客
+- [Clean Coder博客](http://blog.cleancoder.com)：《Clean Code》作者的博客
+- [CodeAhoy](https://codeahoy.com)：关于软件和人类因素的博客。100％在人类身上测试过。
+- [CoderGears博客](http://www.codergears.com/Blog/)：CoderGears团队的博客
+- [Coding Geek - 关于IT、编程和Java的博客](http://coding-geek.com)：关于IT、编程和Java的博客
+- [编码恐惧](https://blog.codinghorror.com)：最好的编程博客之一
+- [CSE博客](http://www.cseblog.com)：量化、数学、计算机科学谜题
+- [CSS Tricks](https://css-tricks.com/)：关于建站及相关内容的博客，主要从前端角度讲述
+- [Daedtech.com](https://www.daedtech.com)：关于软件的故事
+- [Dan梦想编码](https://dandreamsofcoding.com)
+- [Daniel Lemire的博客](https://lemire.me/blog/)：Daniel Lemire的博客
+- [Eli Bendersky](http://eli.thegreenplace.net)：从Python到LLVM的一切
+- [Geek Land](https://avidullu.wordpress.com)：我的宝贝收藏品
+- [HackerEarth博客](http://blog.hackerearth.com)：HackerEarth博客
+- [IT爱好者](http://rodiongork.tumblr.com)：IT爱好者
+- [Joel on Software](https://www.joelonsoftware.com)：StackOverflow首席执行官的博客
+- [Late Developer](https://latedev.wordpress.com)：老C++人的随机想法
+- [Linux论坛](https://www.linux.org/forums)：友好的Linux论坛
+- [1ucasvb的laboriginal数学和物理可视化](http://1ucasvb.tumblr.com)：Lucas Vieira Barbosa的lab original数学和物理可视化
+- [数学 ∩ 编程](https://jeremykun.com)：数学 ∩ 编程
+- [我的技术面试](http://www.mytechinterviews.com)：准备技术面试
+- [Paul Graham的文章](http://www.paulgraham.com/articles.html)：Paul Grahan的文章
+- [编程博客](http://www.yegor256.com)：Yegor Bugayenko的编程博客
+- [21世纪的编程](http://prog21.dadgum.com)：21世纪的编程
+- [rudhakar Rayavaram](http://sudhakar.online)：Sudhakar Rayavaram的博客
+- [Runhe Tian编码实践](https://tianrunhe.wordpress.com)：来自苹果、谷歌、Facebook、Amazon和Microsoft的技术面试问题
+- [小型编程挑战和谜题](https://www.nayuki.io/category/programming)：项目Nayuki
+- [stevehanov.ca](http://stevehanov.ca/blog/)：我知道如何在线制作和销售软件，并且我可以与您分享我的技巧。
+- [Takipi博客](http://blog.takipi.com)：主要关注Java和JVM语言
+- [Pragmatic Engineer](https://blog.pragmaticengineer.com/)：软件。人们。问题。思想。工程。
+- [XDA - Android开发者论坛](https://forum.xda-developers.com)：Android开源开发者论坛
+- [网络忍者](https://www.thenetninja.co.uk/)：Web开发教程
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 为了提高您的英语水平
+- [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
+- [Grammar and Writing指南](http://grammar.ccc.commnet.edu/grammar/)：适用于想要提高英语水平的人
+- [标点符号和大写规则](http://www.grammarbook.com/english_rules.asp)
+- [普渡大学在线写作实验室（OWL）](https://owl.english.purdue.edu)
+- [Quia - 英语](https://www.quia.com/shared/english/)
+- [AntiMoon沉浸法](http://www.antimoon.com/how/howtolearn.htm)：通过沉浸式学习英语，可以由不同水平的人使用。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 当你厌倦了与计算机科学相关的内容时
+- [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured)：每日短篇纪录片，介绍构成世界的各种不可思议的人
+- [Big Think](https://www.youtube.com/user/bigthink/videos)：专家驱动，可操作的，教育性内容，涵盖从比尔·克林顿到比尔·奈的专家
+- [ColdFusion](https://www.youtube.com/user/coldfustion/videos)：过去、现在和未来的技术
+- [CrashCourse](https://www.youtube.com/user/crashcourse/videos)：各种主题的小型课程
+- [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos)：电影和电影制作的高质量分析
+- [National Geographic](https://www.youtube.com/user/NationalGeographic/videos)：来自世界各地的高质量内容
+- [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)：致力于与其名称相符的内容的子版块
+- [Reddit互联网的前线](https://www.reddit.com)：空闲时间的去处
+- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos)：关于科学的YouTube频道，主要是宇宙和太空等方面的内容。
+- [SciShow](https://www.youtube.com/user/scishow/videos)：回答您一直想知道的有趣问题
+- [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos)：关于我们周围世界的大量惊人科学信息，通常使用高速摄影机拍摄
+- [TED](https://www.youtube.com/user/TEDtalksDirector/videos)：关于技术、娱乐和设计的精彩演讲
+- [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)：有关世界各地新闻的有趣信息
+- [如何长寿？](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less)：长寿的秘密
+- [Vsauce](https://www.youtube.com/user/Vsauce/videos)：最好的YouTube频道
+- [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#)：如何过上快乐的生活
+- [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/)：在光污染中进行星空摄影的曝光右侧–加州洛杉矶帕洛斯维尔德
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 开源网站
+- [N-O-D-E](https://n-o-d-e.net/)：所有开源和黑客文化内容——新闻、小册子和项目
+- [Open Hatch](https://openhatch.org)：OpenHatch是一个致力于将潜在的自由软件贡献者与社区、工具和教育相匹配的非营利组织。
+- [Source Forge](https://sourceforge.net)：SourceForge托管了近28万个项目（最后一次统计）。每天提供超过200万次下载，包括各种类别的应用程序和工具。
+- [Google Code](https://code.google.com/projecthosting)：Google为使用Subversion或Mercurial版本控制系统的开源项目提供免费托管。它提供2 GB的存储空间、集成的代码审查工具、Wiki和问题跟踪器。Google Code网站还提供指向Google的许多公开可用API和其他开发者工具的链接。
+- [Launch Pad](https://launchpad.net)：由Canonical维护，LaunchPad特别针对在Ubuntu上运行的项目。它为使用Bazaar版本控制系统的超过21,000个项目提供托管。
+- [Google开源](https://opensource.google.com)：Google开源
+- [Red Hat Developer](https://developers.redhat.com)：全球领先的开源解决方案提供者
+- [开源](https://opensource.com)：开源
+- [Google夏季代码](https://summerofcode.withgoogle.com)：Google夏季代码是一个全球性项目，旨在吸引更多的学生开源软件开发。学生们在学校放假期间与开源组织合作，进行为期3个月的编程项目。
+- [开源Web设计](http://www.oswd.org)：开源Web设计是一个共享符合标准的免费Web设计模板的平台。我们通过良好的设计为Web出版商提供了一种表达意见的方式。
+- [Mozilla安全之冬](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)：安全之冬（MWOS）是Mozilla安全团队组织的一个计划，旨在让学生参与到安全项目中来。必须完成学期项目作为他们大学课程的一部分的学生可以申请MWOS项目。
+- [Bit Bucket](https://bitbucket.org)：与GitHub类似，BitBucket托管了公共和私有项目。在此网站上，开源项目和私有项目（用户少于5个）是免费的。它托管了超过48,000个仓库，其中许多可以在网站上搜索。
+- [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki)：MediaWiki是一个用PHP编写的免费软件开源维基包，最初用于维基百科。它现在也被非营利的维基媒体基金会的几个其他项目和许多其他维基使用，包括这个网站，MediaWiki的主页。
+- [Code Curiosity](https://codecuriosity.org)：CodeCuriosity是一个鼓励贡献开源的平台。每个人的努力都会得到回报，无论大小。
+- [Code Triage](https://www.codetriage.com)：帮助您喜欢的开源项目，并成为更好的开发者。
+- [Issue Hub](http://issuehub.io)：为开源做贡献。搜索问题标签，找到适合您的项目
+- [Up for Grabs](http://up-for-grabs.net)：这是一个为新贡献者精心策划了任务的项目列表。这些是开始项目或帮助分担开源项目工作负担的绝佳方式。
+- [First Timers Only](http://www.firsttimersonly.com)：第一次为开源做贡献可能会让人感到害怕和有点不知所措。也许你是一个编程新手，或者你已经编程一段时间了，但还没有找到一个你感觉舒适的项目。
+- [Your First PR](http://yourfirstpr.github.io)：Your First PR通过展示GitHub和其他地方的优秀入门问题，帮助您开始贡献开源。
+- [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners)：在不同编程语言中寻找友好的初学者项目的一个很棒的存储库。
+- [EddieHub开源社区](https://github.com/EddieHubCommunity)：为对开源有兴趣或已经在开源项目中贡献的人提供支持的社区。
+- [MLH Fellowship计划](https://fellowship.mlh.io/)：完全远程，为期12周的实习替代项目，参与者将获得津贴，并与来自顶级公司的同行和工程师合作，共同开发真正的开源项目。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 实习
+- [Chegg](http://www.chegg.com)：这是一个很棒的资源，可以找到实习机会、奖学金、导师等。
+- [Internshala](https://internshala.com)：您可以根据您的技能集和感兴趣的地点在此处搜索实习机会。它还有助于您从公司获得良好的PPO提议。
+- [Letsintern](https://www.letsintern.com)：从LetsIntern中为您获得一个智能和具有挑战性的实习。
+- [PerfectIntern](https://www.perfectintern.com)：从PerfectIntern中获得帮助，找到一个有薪实习、简历准备、面试准备等！
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
+
+## 工作
+- [AngelList](https://angel.co/)：AngelList是一个面向初创公司、天使投资者和求职者的网站。
+- [CareerBuilder](https://hiring.careerbuilder.com)：CareerBuilder是最大的求职网站之一，提供职位列表、简历发布和职业建议和资源给求职者。
+- [Dice](https://www.dice.com)：Dice是领先的技术求职者网站。
+    您可以按公司、职位、关键字、雇佣类型和地点搜索。
+- [Devsnap](https://devsnap.io)：Devsnap是一个开发者工作和职业社区。
+- [GitHub Jobs](https://jobs.github.com)：在GitHub Jobs上找到您的下一份工作。GitHub Jobs上有大量的工作职位，可帮助开发人员找到理想的工作。
+- [Glassdoor](https://www.glassdoor.com)：Glassdoor是一个评估和评论公司的网站，包括薪酬、员工评价和面试技巧。
+- [HackerRank Jobs](https://www.hackerrank.com/jobs)：HackerRank Jobs是一个帮助开发人员找到适合他们技能的工作的平台。
+- [Indeed](https://www.indeed.com)：Indeed是世界上最大的招聘网站之一，它使求职者能够直接搜索数百万个工作。
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs)：Stack Overflow Jobs是一个技术招聘平台，其中包括大量的编程和开发工作。
+- [TripleByte](https://triplebyte.com)：TripleByte是一个技术招聘平台，它通过一个技术性的面试过程来匹配求职者和公司。
+
+<div align="right">
+  <b><a href="#index">↥ 返回顶部</a></b>
+</div>
 
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
