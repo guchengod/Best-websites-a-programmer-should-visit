@@ -13,7 +13,7 @@
 
 ## Index
 <ul>
-<li><a href="#when-you-get-stuck">当你遇到困难时</a></li>
+<li><a href="#当你遇到困难时">当你遇到困难时</a></li>
 <li><a href="#news">新闻</a></li>
 <li><a href="#magazines">杂志</a></li>
 <li><a href="#coding-practice-for-beginners">初学者的编程练习</a></li>
